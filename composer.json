@@ -2,7 +2,8 @@
     "name": "sikrew/g9sms",
     "description": "This package lets you send text messages using the G9 Telecom SMS API",
     "require": {
-        "laravelcollective/html": "^5.7"
+        "laravelcollective/html": "^5.7",
+        "sikrew/g9sms": "master"
     },
     "authors": [
         {
